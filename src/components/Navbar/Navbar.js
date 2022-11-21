@@ -7,7 +7,7 @@ import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { HashLink as Same } from 'react-router-hash-link';
 import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+//import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
   AiOutlineHome,

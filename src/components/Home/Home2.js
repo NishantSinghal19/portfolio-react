@@ -6,7 +6,6 @@ import Github from "../About/Github";
 import Techstack from "../About/Techstack";
 import Aboutcard from "../About/AboutCard";
 import Toolstack from "../About/Toolstack";
-import { HashLink as Link } from 'react-router-hash-link';
 import {
   AiFillGithub,
   AiOutlineTwitter,
